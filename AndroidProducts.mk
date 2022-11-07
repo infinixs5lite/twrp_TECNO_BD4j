@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-BD4j.mk
+    $(LOCAL_DIR)/twrp_BD4j.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-BD4j-user \
-    omni_TECNO-BD4j-userdebug \
-    omni_TECNO-BD4j-eng
+    twrp_BD4j-eng
