@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=TECNO-BD4j
+DEVICE=BD4j
 VENDOR=tecno
 
 # Load extract_utils and do some sanity checks
